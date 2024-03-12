@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Development Vercel stand
 
-[Link](https://vercel.com/coolstory24/hsse-tech-frontend/GoMm8JLoYB31XZ1om1NM3nn3QiZP)
+[Link](https://hsse-tech-frontend.vercel.app/)
